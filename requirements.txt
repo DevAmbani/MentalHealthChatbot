@@ -1,6 +1,7 @@
-streamlit
+chainlit
 transformers
 torch
+scikit-learn
 joblib
-pandas
+numpy
 tqdm
